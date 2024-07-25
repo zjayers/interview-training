@@ -1,0 +1,14 @@
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/bin/Debug/net8.0/csharp
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/bin/Debug/net8.0/csharp.deps.json
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/bin/Debug/net8.0/csharp.dll
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/bin/Debug/net8.0/csharp.pdb
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/csharp.dll
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/refint/csharp.dll
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/csharp.pdb
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/Users/zachariahayers/development/interview-prep-algorithms/csharp/obj/Debug/net8.0/ref/csharp.dll
