@@ -1,0 +1,20 @@
+<div class="card">
+  <figure>
+    <img src="" alt="" />
+  </figure>
+  <p>{{ title }}</p>
+  <p>{{ subtitle }}</p>
+  <p class="content">
+    {{ content }}
+    <input type="text" [value]="content" (input)="onContentChange($event)" />
+  </p>
+</div>
+
+<button (click)="increment()">Increment</button>
+
+<div>Current Count: {{ count$ | async }}</div>
+
+<button (click)="decrement()">Decrement</button>
+
+<button (click)="reset()">Reset Counter</button>
+
